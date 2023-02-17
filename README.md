@@ -1,4 +1,4 @@
-# **VS Code** _Genelar Setup_ ![img](https://gpx.ge/root/img/vscode2.png)
+# **VS Code** _Custom Setup_ ![img](https://gpx.ge/root/img/vscode2.png)
 
 ### **_Settings_** 🛠
 
