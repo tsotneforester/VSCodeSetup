@@ -41,7 +41,7 @@ npx prettier --check .
 `ctrl + P` - **open recent files quickly**  
 `ctrl + K > w` - **close all active tabs**  
 `ctrl + B` - **toggle file explorer**  
-`ctrl + D + D ...` - **select on selected word**  
+`ctrl + D + D ...` / `ctrl + shift + L ...` - **select on selected word**  
 `shift + alt + W` - **wrap with abbreviation (User Defined)**  
 `shift + alt + A` - **wrap selected text with comment**  
 `ctrl + /` - **comment out line**  
