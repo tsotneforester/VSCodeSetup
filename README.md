@@ -31,6 +31,7 @@ npx prettier --check .
 - **auto rename tags**
 - **SCSS IntelliSense**
 - **HTML to CSS autocompletion**
+- **glean** - React component extraction
 
 ---
 
