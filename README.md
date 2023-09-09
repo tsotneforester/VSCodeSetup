@@ -2,6 +2,12 @@
  
 <h1 align="center"> VS Code <i>Custom Setup</i></h1>
 
+### **_Theme_** 🎨
+
+-  I use `Atom One Dark Theme` as a started coding with **atom**. This is a free theme.
+
+
+---
 
 
 ### **_Settings_** 🛠
@@ -26,8 +32,7 @@ npm install prettier
 npx prettier --check index.html
 npx prettier --check .
 ```
-
-- **Atom One Dark Theme**
+- **Better Comments**
 - **live server**
 - **Formatting Toggle**
 - **JavaScript (ES6) code snippets**
