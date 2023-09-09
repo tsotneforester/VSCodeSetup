@@ -1,4 +1,8 @@
-# **VS Code** _Custom Setup_ ![img](https://gpx.ge/root/img/vscode2.png)
+<p align="center"> <img src="https://gpx.ge/root/img/vscode2.png" alt=""></h1>
+ 
+<h1 align="center"> VS Code <i>Custom Setup</i></h1>
+
+
 
 ### **_Settings_** 🛠
 
