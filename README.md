@@ -1,6 +1,10 @@
-<p align="center"> <img src="https://gpx.ge/root/img/vscode2.png" alt=""></h1>
+
  
-<h1 align="center"> VS Code <i>Custom Setup</i></h1>
+<h1 align="center"> VS Code <i>Custom Setup</i>  + Chrome <i>Extensions</i></h1>
+
+<p align="center"><img src="https://gpx.ge/root/img/vscode2.png" alt=""></p>
+
+---
 
 ### **_Theme_** 🎨
 
@@ -65,3 +69,17 @@ npx prettier --check .
 `ctrl + P ... settings.json` - **search for _settings.json_**
 
 ---
+
+<p align="center"><img src="https://gpx.ge/root/img/chrome1.png"></p>
+
+---
+
+- [**ColorZilla**](https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp)
+- [**CSSViewer**](https://chrome.google.com/webstore/detail/cssviewer/ggfgijbpiheegefliciemofobhmofgce)
+- [**Dark Reader**](https://chrome.google.com/webstore/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh)
+- [**daily.dev**](https://chrome.google.com/webstore/detail/dailydev-the-homepage-dev/jlmpjdjjbgclbocgajdjefcidcncaied)
+- [**JSON Beautifier & Editor**](https://chrome.google.com/webstore/detail/json-beautifier-editor/lpopeocbeepakdnipejhlpcmifheolpl)
+- [**Pesticide**](https://chrome.google.com/webstore/detail/pesticide-for-chrome/bakpbgckdnepkmkeaiomhmfcnejndkbi)
+- [**Timer**](https://chrome.google.com/webstore/detail/timer-for-google-chrome/kbajefidbakalojflbaojijekaomlidj)
+- [**Web Developer**](https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm)
+
