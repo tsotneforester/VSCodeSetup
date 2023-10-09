@@ -2,7 +2,7 @@
  
 <h1 align="center"> VS Code <i>Custom Setup</i>  + Chrome <i>Extensions</i></h1>
 
-<p align="center"><img src="https://gpx.ge/root/img/vscode2.png" alt=""></p>
+<p align="center"><img src="https://github.com/tsotneforester/vscode/assets/79293287/0f4d25cf-b4c2-47e7-a14e-18d344ec7b9c" alt=""></p>
 
 ---
 
