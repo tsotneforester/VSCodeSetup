@@ -70,7 +70,7 @@ npx prettier --check .
 
 ---
 
-<p align="center"><img src="https://gpx.ge/root/img/chrome1.png"></p>
+<p align="center"><img src="https://github.com/tsotneforester/vscode/assets/79293287/6814bdbf-f8e8-44b1-ba31-42943492190f"></p>
 
 ---
 
