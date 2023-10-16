@@ -29,13 +29,7 @@
 
 ### **_Plugins_** 💻
 
-- **Prettier** - To check the structure error, install it and check all folder files or single file.
-
-```sh
-npm install prettier
-npx prettier --check index.html
-npx prettier --check .
-```
+- **Prettier**
 - **Better Comments**
 - **live server**
 - **Formatting Toggle**
