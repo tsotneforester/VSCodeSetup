@@ -64,6 +64,13 @@
 
 ---
 
+| Function                                                   | Shortcut         |
+| ---------------------------------------------------------- | ---------------- |
+| Select multiple cursor location                            | ALT + Leftclick  |
+| Additional cursors to all occurrences of current selection | CTRL + SHIFT + L |
+| Select only current and next occurrence of selected item   | CTRL + D         |
+
+
 <p align="center"><img src="https://github.com/tsotneforester/vscode/assets/79293287/6814bdbf-f8e8-44b1-ba31-42943492190f"></p>
 
 ---
