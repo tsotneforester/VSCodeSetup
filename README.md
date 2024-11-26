@@ -67,7 +67,7 @@
 | Function                                                   | Shortcut         |
 | ---------------------------------------------------------- | ---------------- |
 | Select multiple cursor location                            | ALT + Leftclick  |
-| Additional cursors to all occurrences of current selection | CTRL + SHIFT + L |
+| Additional cursors to all occurrences of current selection | ctrl + f2 |
 | Insert cursor at end of each line selected                 | alt + SHIFT + I |
 | Select only current and next occurrence of selected item   | CTRL + D         |
 
