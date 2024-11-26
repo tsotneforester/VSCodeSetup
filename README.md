@@ -68,6 +68,7 @@
 | ---------------------------------------------------------- | ---------------- |
 | Select multiple cursor location                            | ALT + Leftclick  |
 | Additional cursors to all occurrences of current selection | CTRL + SHIFT + L |
+| Insert cursor at end of each line selected                 | alt + SHIFT + I |
 | Select only current and next occurrence of selected item   | CTRL + D         |
 
 
