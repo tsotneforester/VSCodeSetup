@@ -36,6 +36,8 @@
 - **JavaScript (ES6) code snippets**
 - **Live Sass Compiler** (requires node.js)
 - **auto rename tags**
+- **Svg Preview**
+- **DotENV**
 - **SCSS IntelliSense**
 - **HTML to CSS autocompletion**
 
@@ -43,32 +45,40 @@
 
 ### **_Shortcuts_** 📄
 
-`ctrl + shift + ` - **open terminal in folder**  
-`ctrl + F4 > W ` - **close all active windows**  
-`ctrl + P` - **open recent files quickly**  
-`ctrl + K > w` - **close all active tabs**  
-`ctrl + B` - **toggle file explorer**  
-`ctrl + D + D ...` / `ctrl + shift + L ...` - **select on selected word**  
-`shift + alt + W` - **wrap with abbreviation (User Defined)**  
-`shift + alt + A` - **wrap selected text with comment**  
-`ctrl + /` - **comment out line**  
-`alt + shft + arrow` - **copy line up or down**  
-`ctrl + tab` - **switch between opened pages**  
-`alt + ↑ / ↓` - **move line up or down**  
-`ctrl + K > ctrl + 0` - **fold all levels**  
-`ctrl + K > ctrl + [n]` - **fold [n] level**  
-`ctrl + K > ctrl + J` - **unfold all levels**  
-`ctrl + K > ctrl + ]` - **unfold current level**  
-`ctrl + P ... settings.json` - **search for _settings.json_**
+`CTRL + J` - **Open integrated terminal (open panel)**  
+`CTRL + K + W` - **Close all active tabs**  
+`CTRL + P` - **Open recent files quickly**  
+`CTRL + B` - **Toggle file explorer**  
+
+`ALT + Left Click` - **Select multiple cursor location**  
+`CTRL + D + D ...` - **Select selected word occurences individually**  
+`CTRL + F2 / CTRL + SHIFT + L` - **Select all selected word occurences**  
+`ALT + SHIFT + I` - **Insert cursor at end of each line selected**  
+
+`CTRL+ K > CTRL+ 0` - **Fold all levels**  
+`CTRL+ K > CTRL+ [n]` - **Fold [n] level**  
+`CTRL+ K > CTRL+ J` - **Unfold all levels**  
+
+`CTRL+ ALT + W` - **Wrap with html tag (User Defined)**  
+`SHIFT + ALT + A` - **Wrap selected text with comment**  
+`CTRL+ /` - **Comment out line**  
+`ALT+ SHIFT+ ↑ / ↓` - **Copy line up or down**  
+`CTRL+ TAB` - **Switch between opened pages**  
+`ALT + ↑ / ↓` - **Swap line up or down**  
+
+`CTRL+ R` - **Switch workspaces**  
+`ALT + Z` - **Toggle word wrap**  
+`CTRL + G` - **Go to line**  
+`ALT + F12` - **Peek Definition**  
+`CTRL + K + R` - **Reveal active file in Explorer**  
+`ALT + Wheel` - **Scroll fast**  
+`F1` - **Command Palette**  
+`F8` - **Go to next error or warning**  
+`F12 / CTRL+ Left Click` - **Go to Definition**  
+ 
 
 ---
 
-| Function                                                   | Shortcut         |
-| ---------------------------------------------------------- | ---------------- |
-| Select multiple cursor location                            | ALT + Leftclick  |
-| Additional cursors to all occurrences of current selection | ctrl + f2 |
-| Insert cursor at end of each line selected                 | alt + SHIFT + I |
-| Select only current and next occurrence of selected item   | CTRL + D         |
 
 
 <p align="center"><img src="https://github.com/tsotneforester/vscode/assets/79293287/6814bdbf-f8e8-44b1-ba31-42943492190f"></p>
