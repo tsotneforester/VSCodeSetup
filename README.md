@@ -30,15 +30,14 @@
 ### **_Plugins_** 💻
 
 - **Prettier**
-- **Better Comments**
-- **live server**
+- **Todo Tree**
+- **live server (five server)**
 - **Formatting Toggle**
 - **JavaScript (ES6) code snippets**
 - **Live Sass Compiler** (requires node.js)
 - **auto rename tags**
 - **SCSS IntelliSense**
 - **HTML to CSS autocompletion**
-- **glean** - React component extraction
 
 ---
 
