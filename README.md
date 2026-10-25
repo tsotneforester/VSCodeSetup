@@ -23,6 +23,7 @@
 - `word wrap` - **on**
 - `Workbench > Editor: Preview (settings)` - **Disabled**
 - `Default Formatter` - **Prettier**
+- `editor: Format on save` - **EnableD**
 - `Settings > Keyboard shortcuts` - **Emmet**: Wrap with abbreviation (User Defined `shift + alt + w` )
 
 ---
