@@ -17,6 +17,7 @@
 ### **_Settings_** 🛠
 
 - `Tab size` - 2
+- `Font size` - 18
 - `editor bracket pair colorization` - **EnableD**
 - `editor guides Bracket pairs` - **true**
 - `editor guides Bracket pairs horizontal` - **true**
