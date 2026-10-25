@@ -25,6 +25,7 @@
 - `Workbench > Editor: Preview (settings)` - **Disabled**
 - `Default Formatter` - **Prettier**
 - `editor: Format on save` - **EnableD**
+- `files: auto save` - **onFocusChange**
 - `Settings > Keyboard shortcuts` - **Emmet**: Wrap with abbreviation (User Defined `shift + alt + w` )
 
 ---
