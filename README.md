@@ -65,18 +65,23 @@
 | **Ctrl + Alt + W** | Wrap with HTML tag (User Defined) |
 | **Shift + Alt + A** | Wrap selected text with comment |
 | **Ctrl + /** | Comment out line |
-| **Alt + Shift + ↑ / ↓** | Copy line up or down |
+
 | **Ctrl + Tab** | Switch between opened pages |
-| **Alt + ↑ / ↓** | Swap line up or down |
+
 | **Ctrl + R** | Switch workspaces |
 | **Alt + Z** | Toggle word wrap |
 | **Ctrl + G** | Go to line |
-| **Alt + F12** | Peek Definition |
+
 | **Ctrl + K + R** | Reveal active file in Explorer |
 | **Alt + Wheel** | Scroll fast |
 | **F1** | Command Palette |
 | **F8** | Go to next error or warning |
+
+| **Alt + Shift + ↑ / ↓** | Copy line up or down |
+| **Alt + ↑ / ↓** | Swap line up or down |
+
 | **F12** / **Ctrl + Left Click** | Go to Definition |
+| **Shift + Ctrl + F10** | Peek Definition |
  
 
 ---
