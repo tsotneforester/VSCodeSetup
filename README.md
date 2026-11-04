@@ -49,36 +49,34 @@
 
 ### **_Shortcuts_** 📄
 
-`CTRL + J` - **Open integrated terminal (open panel)**  
-`CTRL + K + W` - **Close all active tabs**  
-`CTRL + P` - **Open recent files quickly**  
-`CTRL + B` - **Toggle file explorer**  
-
-`ALT + Left Click` - **Select multiple cursor location**  
-`CTRL + D + D ...` - **Select selected word occurences individually**  
-`CTRL + F2 / CTRL + SHIFT + L` - **Select all selected word occurences**  
-`ALT + SHIFT + I` - **Insert cursor at end of each line selected**  
-
-`CTRL+ K > CTRL+ 0` - **Fold all levels**  
-`CTRL+ K > CTRL+ [n]` - **Fold [n] level**  
-`CTRL+ K > CTRL+ J` - **Unfold all levels**  
-
-`CTRL+ ALT + W` - **Wrap with html tag (User Defined)**  
-`SHIFT + ALT + A` - **Wrap selected text with comment**  
-`CTRL+ /` - **Comment out line**  
-`ALT+ SHIFT+ ↑ / ↓` - **Copy line up or down**  
-`CTRL+ TAB` - **Switch between opened pages**  
-`ALT + ↑ / ↓` - **Swap line up or down**  
-
-`CTRL+ R` - **Switch workspaces**  
-`ALT + Z` - **Toggle word wrap**  
-`CTRL + G` - **Go to line**  
-`ALT + F12` - **Peek Definition**  
-`CTRL + K + R` - **Reveal active file in Explorer**  
-`ALT + Wheel` - **Scroll fast**  
-`F1` - **Command Palette**  
-`F8` - **Go to next error or warning**  
-`F12 / CTRL+ Left Click` - **Go to Definition**  
+| Shortcut | Description |
+| :--- | :--- |
+| **Ctrl + J** | Open integrated terminal (open panel) |
+| **Ctrl + K + W** | Close all active tabs |
+| **Ctrl + P** | Open recent files quickly |
+| **Ctrl + B** | Toggle file explorer |
+| **Alt + Left Click** | Select multiple cursor location |
+| **Ctrl + D + D ...** | Select selected word occurrences individually |
+| **Ctrl + F2** / **Ctrl + Shift + L** | Select all selected word occurrences |
+| **Alt + Shift + I** | Insert cursor at end of each line selected |
+| **Ctrl + K > Ctrl + 0** | Fold all levels |
+| **Ctrl + K > Ctrl + [n]** | Fold [n] level |
+| **Ctrl + K > Ctrl + J** | Unfold all levels |
+| **Ctrl + Alt + W** | Wrap with HTML tag (User Defined) |
+| **Shift + Alt + A** | Wrap selected text with comment |
+| **Ctrl + /** | Comment out line |
+| **Alt + Shift + ↑ / ↓** | Copy line up or down |
+| **Ctrl + Tab** | Switch between opened pages |
+| **Alt + ↑ / ↓** | Swap line up or down |
+| **Ctrl + R** | Switch workspaces |
+| **Alt + Z** | Toggle word wrap |
+| **Ctrl + G** | Go to line |
+| **Alt + F12** | Peek Definition |
+| **Ctrl + K + R** | Reveal active file in Explorer |
+| **Alt + Wheel** | Scroll fast |
+| **F1** | Command Palette |
+| **F8** | Go to next error or warning |
+| **F12** / **Ctrl + Left Click** | Go to Definition |
  
 
 ---
