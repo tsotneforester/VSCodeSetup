@@ -77,6 +77,7 @@
 | **Alt + ↑ / ↓** | Swap line up or down |
 | **F12** / **Ctrl + Left Click** | Go to Definition |
 | **Shift + Ctrl + F10** | Peek Definition |
+| **Ctrl + alt + I** | Agent Sidebar |
  
 
 ---
